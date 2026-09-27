@@ -1,0 +1,7 @@
+
+E:\hanwh2609\rag_two_branch>uv init    
+Initialized project `rag-two-branch`                                                       
+                                                                                           
+E:\hanwh2609\rag_two_branch>.venv\Scripts\activate.bat     
+
+(rag-two-branch) E:\hanwh2609\rag_two_branch>uv add -r pre-requierments.txt
